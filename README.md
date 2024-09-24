@@ -1,0 +1,1 @@
+This application basically consists of 3 different textunits representing Hours, Minutes and Seconds. Also we got two buttons on the UI. The first button will be changed on the basis of service state and the second button will allow us to cancel the foreground service which will result in resetting of our stopwatch.
